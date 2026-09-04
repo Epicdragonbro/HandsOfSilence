@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "HandTracker",
+			"Path": "..\\Source\\HandTracker.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "HandTrackerEditor",
+			"Path": "..\\Source\\HandTrackerEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

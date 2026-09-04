@@ -1,0 +1,9 @@
+{
+	"SourceFiles": [
+		"D:\\CTransfer\\Desktop\\Bachelor\\HandLab\\HandsOfSilence\\Source\\HandTracker\\HandTracker.Build.cs",
+		"D:\\CTransfer\\Desktop\\Bachelor\\HandLab\\HandsOfSilence\\Plugins\\HandTrackerPlugin\\Source\\HandTrackerPlugin\\HandTrackerPlugin.Build.cs",
+		"D:\\CTransfer\\Desktop\\Bachelor\\HandLab\\HandsOfSilence\\Source\\HandTracker.Target.cs",
+		"D:\\CTransfer\\Desktop\\Bachelor\\HandLab\\HandsOfSilence\\Source\\HandTrackerEditor.Target.cs"
+	],
+	"EngineVersion": "5.7.4"
+}
